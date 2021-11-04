@@ -110,3 +110,5 @@ if __name__ == "__main__":
     g = Grafo()
     g.cargarEjemplo1()
     g.seleccion()
+
+
